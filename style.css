@@ -1,0 +1,18 @@
+/* Challenge1 keeping poppins font for body*/
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+  /* Challenge2 setting id for font css*/
+  #css{
+    font-variant: small-caps;
+    font-weight: bold;
+    font-style:oblique;
+  }
+  /*Challenge3 setting fontsize as 15px for all p tags*/
+  #html{
+    font-size: 15px;
+  }
+  #css{
+    font-size: 15px;
+  }
+  #js{
+    font-size: 15px;
+  }
